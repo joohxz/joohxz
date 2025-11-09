@@ -1,29 +1,33 @@
-# 👋 Hi, I'm João Moraes
+# 👋 Hi, I'm João Moraes  
 
-💻 I'm a **Software Developer** passionate about building scalable applications and learning new technologies.  
-My main focus is on **Back-End Development**, but recently I've been diving into **Front-End** to become a more complete engineer.  
+💻 I'm a **Software Developer** passionate about crafting scalable, efficient, and maintainable applications.  
+I work mainly with **.NET**, **NestJS**, **Express**, **Vue.js**, and **Angular**, continuously striving to deepen my expertise in these stacks.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🔹 Back-End  
-- **C# / .NET**
-- **Node.js / Express** 
-- **Java / Spring Boot**  
-- **SQL & NoSQL Databases** (SQL Server, PostgreSQL, MongoDB)
+- **C# / .NET**  
+- **Javascript/TypeScript & NestJS**  
+- **Javascript/TypeScript & Express**  
+- **SQL & NoSQL Databases** – SQL Server, PostgreSQL, Oracle, MongoDB  
 
-### 🔹 Front-End (Learning & Growing)  
-- **React.js**  
-- **Next.js**  
+### 🔹 Front-End  
+- **Vue.js & Nuxt**  
+- **Angular**  
 - **Tailwind CSS**  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Always exploring new tools and technologies.  
-- 🏗️ Strong foundation in back-end systems and API development.  
-- 🎯 Currently sharpening my **React + Next.js** skills.  
-- 🤝 Open to collaborations on interesting projects.  
+- 🌱 Constantly learning and exploring new tools and frameworks.  
+- 🏗️ Focused on clean architecture, scalable APIs, and robust back-end systems.  
+- 💬 Passionate about building software that solves real-world problems.  
+- 🤝 Open to collaborations and exciting projects in the web development ecosystem.  
 
 ---
+
+## 📫 Let's Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/joaomoraes-pt)  
+📧 [Email](mailto:joohxz@gmail.com)
