@@ -29,5 +29,5 @@ I work mainly with **.NET**, **NestJS**, **Express**, **Vue.js**, and **Angular*
 ---
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/joaomoraes-pt)  
+💼 [LinkedIn](https://www.linkedin.com/in/joao-moraes-pt)  
 📧 [Email](mailto:joohxz@gmail.com)
