@@ -9,8 +9,8 @@ I work mainly with **.NET**, **NestJS**, **Express**, **Vue.js**, and **Angular*
 
 ### 🔹 Back-End  
 - **C# / .NET**  
-- **Javascript/TypeScript & NestJS**  
-- **Javascript/TypeScript & Express**  
+- **NestJS**  
+- **Express**  
 - **SQL & NoSQL Databases** – SQL Server, PostgreSQL, Oracle, MongoDB  
 
 ### 🔹 Front-End  
